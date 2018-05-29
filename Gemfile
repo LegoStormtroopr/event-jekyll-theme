@@ -1,1 +1,1 @@
-jekyll
+gem 'jekyll'
